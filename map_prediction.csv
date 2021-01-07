@@ -1,4 +1,5 @@
- ,Title,Journal,Paper,Git
- 1,Learned Map Prediction for Enhanced Mobile Robot Exploration,icra2019,[link](https://github.com/rakeshshrestha31/map_prediction_enhanced_exploration/blob/master/shrestha_icra19_preprint.pdf),https://github.com/rakeshshrestha31/map_prediction_enhanced_exploration
- 2,Automatic Room Detection and Reconstruction in Cluttered Indoor Environments with Complex Room Layouts,sccg2015,https://www.mattausch.at/get_file.php?id=31258310&vnr=187273,
-3,Exploration of Indoor Environments Predicting the Layout of Partially Observed Rooms,cs.RO2020,https://arxiv.org/pdf/2004.06967.pdf,https://github.com/goldleaf3i
+ ,Type,Title,Journal,Paper,Git
+ 1,Paper,Learned Map Prediction for Enhanced Mobile Robot Exploration,icra2019,[link](https://github.com/rakeshshrestha31/map_prediction_enhanced_exploration/blob/master/shrestha_icra19_preprint.pdf),https://github.com/rakeshshrestha31/map_prediction_enhanced_exploration
+ 2,Paper,Automatic Room Detection and Reconstruction in Cluttered Indoor Environments with Complex Room Layouts,sccg2015,https://www.mattausch.at/get_file.php?id=31258310&vnr=187273,
+3,Paper,Exploration of Indoor Environments Predicting the Layout of Partially Observed Rooms,cs.RO2020,https://arxiv.org/pdf/2004.06967.pdf,https://github.com/goldleaf3i
+4,Database,Houseexpo: A large-scale 2d indoor layout dataset for learning-based algorithms on mobile robots,iros2020,https://arxiv.org/pdf/1903.09845.pdf,https://github.com/TeaganLi/HouseExpo
